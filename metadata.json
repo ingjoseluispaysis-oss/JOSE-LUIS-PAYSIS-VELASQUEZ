@@ -1,0 +1,6 @@
+{
+  "name": "Panel de Control – Versión 0.1",
+  "description": "Sistema integral de gestión y control de obra para la Ciclovía Cutervo - Huacachina. Incluye valorizaciones acumulables con registro de nuevos metrados y seguimiento semanal, captura de evidencia fotográfica vía cámara por subpartida, análisis de precios unitarios S10 y EDT interactivo, diagrama de Gantt CPM vinculado a subpartidas, panel de indicadores rápidos deslizable y panel de tendencia temporal EVM deslizable.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
